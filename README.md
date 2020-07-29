@@ -43,7 +43,7 @@ else:
 
 ---
 
-![figure b](C:\Users\yashc\GIT\Support-Vector-Machine\plots\fig_b.jpg)
+![figure b](plots\fig_b.jpg)
 
 
 
@@ -51,7 +51,7 @@ else:
 
 ---
 
-![figure c](C:\Users\yashc\GIT\Support-Vector-Machine\plots\fig_c.jpg)
+![figure c](plots\fig_c.jpg)
 
 
 
@@ -65,7 +65,7 @@ else:
 
 ---
 
-![figure d](C:\Users\yashc\GIT\Support-Vector-Machine\plots\fig_d.jpg)
+![figure d](plots\fig_d.jpg)
 
 
 
