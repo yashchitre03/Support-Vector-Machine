@@ -4,7 +4,7 @@ This python program implements the Support Vector Machine (SVM) to classify the 
 
 ```python
 if xi2 < 0.2*sin(10*xi1) + 0.3 or (xi2 - 0.8)**2 + (xi1 - 0.5)**2 < 0.15**2:
-    di = 1
+	di = 1
 else:
 	di = -1
 ```
